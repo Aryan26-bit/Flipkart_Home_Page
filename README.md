@@ -1,7 +1,7 @@
 
 
+![Screenshot (3007)](https://github.com/Aryan26-bit/Flipkart_Home_Page/assets/53808891/33aee364-38d0-439e-a446-5be118ef6df9)
 
-![Screenshot (3008)](https://github.com/Aryan26-bit/Flipkart_Home_Page/assets/53808891/877c5eec-a079-438a-a409-84ff7e1be0e7)
 
 ![Screenshot (3010)](https://github.com/Aryan26-bit/Flipkart_Home_Page/assets/53808891/100395d2-40f4-4bbd-8590-ef3e39590e6a)
 ![Screenshot (3009)](https://github.com/Aryan26-bit/Flipkart_Home_Page/assets/53808891/a9d47018-acbb-46c9-9797-a5884be9996b)
